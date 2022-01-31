@@ -1,0 +1,19 @@
+{
+  "name": "@nickdoespackages/prettier-config",
+  "version": "1.0.0",
+  "description": "My Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickR69420/prettier-config.git"
+  },
+  "author": "NickR69420",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickR69420/prettier-config/issues"
+  },
+  "homepage": "https://github.com/NickR69420/prettier-config#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
