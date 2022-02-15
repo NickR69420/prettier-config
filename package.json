@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "My Prettier config",
   "main": "index.json",
+  "exports": {
+    ".": {
+      "import": "./index.json",
+      "require": "./index.json"
+    },
+    "./v2": {
+      "import": "./index2.json",
+      "require": "./index2.json"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NickR69420/prettier-config.git"
